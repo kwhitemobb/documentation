@@ -1,7 +1,7 @@
 # ARO RedHat Quay Backend Storage Setup
-A Quickstart guide to deploying an Azure Red Hat OpenShift cluster with IBM Cloud Paks 4 Data.
+A Quickstart guide to deploying an Quay private container registry on Azure Red Hat OpenShift cluster with IBM Cloud Paks 4 Data.
 
-Author: [Kristopher White]
+Author: [Kristopher White & Connor Wooley]
 
 ## Video Walkthrough
 
