@@ -38,7 +38,7 @@
 * [Configure the Managed Upgrade Operator](./docs/aro/managed-upgrade-operator)
 * [Configure ARO with Azure NetApp Trident Operator](./docs/aro/trident)
 * [IBM Cloud Paks for Data Operator Setup](./docs/aro/ibm-cloud-paks-for-data)
-* [ARO Quay Backend Storage Setup](./docs/aro/aro-redhat-quay-backend-storage)
+* [RedHat Quay Backend Storage Setup on ARO](./docs/aro/aro-redhat-quay-backend-storage)
 * [Install ARO with Custom Domain using LetsEncrypt with cert manager](./docs/aro/cert-manager)
 * [Configure ARO for Nvidia GPU Workloads](./docs/aro/gpu)
 * [Configure ARO with Azure Front Door](./docs/aro/frontdoor)
